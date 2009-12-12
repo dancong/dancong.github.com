@@ -5,7 +5,7 @@ title: Rails Rock Me
 
 h1. {{ page.title }}
 
-p(meta). 9 Dec 2008 - Beijing
+p(meta). 9 Dec 2009 - Beijing
 
 Since as a 7 years experienced Java developer, I have to admitted that the stuff that rock me this year is the Ruby language and the Rails framework. Here is the list:
 

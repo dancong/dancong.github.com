@@ -5,7 +5,7 @@ title: A Simple Global Setting class
 
 h1. {{ page.title }}
 
-p(meta). 10 Dec 2008 - Beijing
+p(meta). 10 Dec 2009 - Beijing
 
 Almost in every web application, the administrator user need to setup some system parameters on the fly.
 These parameter settings are different from the application configuration, which normally stored in the yml files under the config directory. Some of the developers incline to create a migration and store such properties into DB. 
