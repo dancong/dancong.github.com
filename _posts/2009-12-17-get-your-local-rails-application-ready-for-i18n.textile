@@ -23,7 +23,7 @@ just run:
 @ready_for_i18n <you view path> <target path>@
 
 Then the tool will transform your view like the screenshot #1(Diff result) and also generate a dictionary @en.yml@ file looked like screenshot #2.
-Have the similar i18n problem, Check it out and any of your comments are welcome here and also on the "project home at github":http://github.com/zigzag/ready_for_i18n .
+Have the similar I18N problem? Check it out and any of your comments are welcome here and also on the "project home at github":http://github.com/zigzag/ready_for_i18n .
 
 h2. Screenshot #1: Diff result of the transform result with the original view file
 
